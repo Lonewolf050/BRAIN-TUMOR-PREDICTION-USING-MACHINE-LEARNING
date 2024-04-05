@@ -51,7 +51,7 @@ def main():
 
 # Function to load the trained model
 def load_model():
-    with open("C:/Users/aman0/OneDrive/Desktop/bt/trained_model.sav", 'rb') as f:
+    with open("trained_model.sav", 'rb') as f:
         model = pickle.load(f)
     return model
 
