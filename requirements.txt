@@ -1,6 +1,7 @@
 alabaster                     0.7.12
 altair                        5.2.0
 arrow                         1.2.3
+opencv-python==4.3.0.36
 astroid                       2.14.2
 asttokens                     2.0.5
 atomicwrites                  1.4.0
